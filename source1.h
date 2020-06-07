@@ -6,6 +6,10 @@
 #include <ctime>
 #include <cmath>
 
+//Лабораторна робота 6.1
+//Грицюк Володимир
+//ІП-92
+
 
 using namespace std;
 class stereoFigure{

@@ -1,7 +1,7 @@
 #include "source1.h"
 
 int main(){
-    cout << "Lab 6.1 variant 8\nHrytsiuk Volodymyr IP-92" << endl;
+    cout << "Lab 6 variant 8\nHrytsiuk Volodymyr IP-92" << endl;
     stereoFigure* pointer;
     cube c;
     tetrahedron t;
